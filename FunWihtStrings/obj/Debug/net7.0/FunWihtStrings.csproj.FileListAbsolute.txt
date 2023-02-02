@@ -1,0 +1,15 @@
+D:\visualstudio\FunWihtStrings\FunWihtStrings\bin\Debug\net7.0\FunWihtStrings.exe
+D:\visualstudio\FunWihtStrings\FunWihtStrings\bin\Debug\net7.0\FunWihtStrings.deps.json
+D:\visualstudio\FunWihtStrings\FunWihtStrings\bin\Debug\net7.0\FunWihtStrings.runtimeconfig.json
+D:\visualstudio\FunWihtStrings\FunWihtStrings\bin\Debug\net7.0\FunWihtStrings.dll
+D:\visualstudio\FunWihtStrings\FunWihtStrings\bin\Debug\net7.0\FunWihtStrings.pdb
+D:\visualstudio\FunWihtStrings\FunWihtStrings\obj\Debug\net7.0\FunWihtStrings.csproj.AssemblyReference.cache
+D:\visualstudio\FunWihtStrings\FunWihtStrings\obj\Debug\net7.0\FunWihtStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudio\FunWihtStrings\FunWihtStrings\obj\Debug\net7.0\FunWihtStrings.AssemblyInfoInputs.cache
+D:\visualstudio\FunWihtStrings\FunWihtStrings\obj\Debug\net7.0\FunWihtStrings.AssemblyInfo.cs
+D:\visualstudio\FunWihtStrings\FunWihtStrings\obj\Debug\net7.0\FunWihtStrings.csproj.CoreCompileInputs.cache
+D:\visualstudio\FunWihtStrings\FunWihtStrings\obj\Debug\net7.0\FunWihtStrings.dll
+D:\visualstudio\FunWihtStrings\FunWihtStrings\obj\Debug\net7.0\refint\FunWihtStrings.dll
+D:\visualstudio\FunWihtStrings\FunWihtStrings\obj\Debug\net7.0\FunWihtStrings.pdb
+D:\visualstudio\FunWihtStrings\FunWihtStrings\obj\Debug\net7.0\FunWihtStrings.genruntimeconfig.cache
+D:\visualstudio\FunWihtStrings\FunWihtStrings\obj\Debug\net7.0\ref\FunWihtStrings.dll
